@@ -1,5 +1,7 @@
 # SmokeTrees Digital LLP Assginment
 
+![image](https://i.ibb.co/2WHq7LX/Screenshot-10.png)
+
 
 ## Installation backend
 
