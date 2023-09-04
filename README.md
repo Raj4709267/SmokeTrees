@@ -1,4 +1,4 @@
-# SmokeTrees Digital LLP Assginment
+# SmokeTrees Digital LLP Assignment
 
 <img src="https://i.ibb.co/2WHq7LX/Screenshot-10.png"/>
 
