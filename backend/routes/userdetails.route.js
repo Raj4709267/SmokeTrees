@@ -1,8 +1,12 @@
 const express = require("express");
-const { addUserDetails } = require("../controllers/userdetails.controller");
+const {
+  addUserDetails,
+  getUserDetails,
+} = require("../controllers/userdetails.controller");
 
 const userDetailsRoutes = express.Router();
 
-userDetailsRoutes.get("/", addUserDetails);
+userDetailsRoutes.post("/", addUserDetails);
+userDetailsRoutes.get("/", getUserDetails);
 
 module.exports = { userDetailsRoutes };
